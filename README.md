@@ -1,4 +1,4 @@
-### What's up homies! 
+## What's up homies! 
 ### 🔭 I’m currently working on ...
 ### 🌱 I’m currently studying ... Biology!
 ### 🤔 I’m looking for help with ... Coding.
