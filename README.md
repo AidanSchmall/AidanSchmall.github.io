@@ -1,4 +1,6 @@
 # My Name is Aidan Schmall
+### Link to my first project using *canva* ![Test Image 2](![Carmelo Anthony Stats](https://user-images.githubusercontent.com/71460320/94183289-3360de00-fe70-11ea-8747-1aa2872145e9.png)
+
 ## What's up homies! 
 ## 🔭 I’m currently working on ... EvErYThing!!!
 ## 🌱 I’m currently studying ... Biology!
