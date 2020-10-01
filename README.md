@@ -1,7 +1,7 @@
 # My Name is Aidan Schmall
 ### Here is my timeline project!
 
-![test image 2]<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YF3bm6pNZX2Mp2fg9hydNMg9M962ZdEv2mK-Dmd6krY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+![test image 2]iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YF3bm6pNZX2Mp2fg9hydNMg9M962ZdEv2mK-Dmd6krY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Here is my first project using *canva* ![Carmelo Anthony Stats](https://user-images.githubusercontent.com/71460320/94183289-3360de00-fe70-11ea-8747-1aa2872145e9.png)
 
