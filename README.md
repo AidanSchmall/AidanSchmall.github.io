@@ -4,6 +4,8 @@
 
 ![Carmelo Anthony's PPG (Points Per game) by Season](https://user-images.githubusercontent.com/71460320/95494386-d84ce200-096b-11eb-863f-9db42b23af34.png)
 
+This bar graph shows how Carmelo Anthony is a very effective scorer. While looking at the graph it is clear that Carmelo Anthony, sadly, is past his prime and his scoring numbers have gone down a little bit. But it also shows how in his prime he was a very effective and consistent scorer year in and year out. 
+
 ### Here is my timeline project!
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YF3bm6pNZX2Mp2fg9hydNMg9M962ZdEv2mK-Dmd6krY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
