@@ -3,6 +3,8 @@
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1mcHmMgVjvaj-GWnICZ4Ue0f0wLflf4th" width="640" height="480"></iframe>
 
+This map shows how well Carmelo Anthony has played throughout his carrer in differenct cities throughout america!
+
 ### Bar Graph!
 
 ![Carmelo_Anthony's_PPG_per_Season_PTS_chartbuilder (1)](https://user-images.githubusercontent.com/71460320/95495416-66759800-096d-11eb-8b92-b31cc0817c24.png)
