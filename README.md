@@ -1,7 +1,7 @@
 # My Name is Aidan Schmall
 ### First Project With Tableau
 
-[Dashboard 1.pdf](https://github.com/AidanSchmall/AidanSchmall.github.io/files/5461273/Dashboard.1.pdf)
+![Dashboard 1.pdf](https://github.com/AidanSchmall/AidanSchmall.github.io/files/5461273/Dashboard.1.pdf)
 
 ### Map!
 
