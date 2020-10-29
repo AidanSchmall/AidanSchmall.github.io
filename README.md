@@ -2,7 +2,7 @@
 ### First Project With Tableau
 
 ![Dashboard 1](https://user-images.githubusercontent.com/71460320/97632825-7717ac00-1a09-11eb-9a98-34211544762a.png)
-
+These graphs show the trends with respect to where Lehigh university students live and where they would like to party and where they are likely to go to a party. Interestingly enough the graph shows that students living on the hill would rather have parties off campus and not on the hill. It seems that they wouldn't want to party in the same place that they live so they don't have to clean up.
 ### Map!
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1mcHmMgVjvaj-GWnICZ4Ue0f0wLflf4th" width="640" height="480"></iframe>
