@@ -13,7 +13,7 @@ These graphs show the trends with respect to where Lehigh university students li
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1mcHmMgVjvaj-GWnICZ4Ue0f0wLflf4th" width="640" height="480"></iframe>
 
-This map shows how well Carmelo Anthony has played throughout his carrer in differenct cities throughout america!
+This map shows how well Carmelo Anthony has played throughout his carrer in differenct cities throughout america! Each point represents a team that Carmelo Anthony played for and his overall stats with those teams. He got from one team to the other through trades and free agency. This is interesting because you can see he clearly plays a lot better for certain teams. Specifically teams that treated him as an isolation scorer and not a role player. He was the "Top Gun" for the Denver Nuggets and New York Knicks, and his stats show that, for the other three teams he was just a role player... Sometimes not even a starter, this is not the Carmelo that we know, he needs to be played as a superstar because he is.
 
 ### Bar Graph!
 
