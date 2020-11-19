@@ -1,4 +1,6 @@
 # My Name is Aidan Schmall
+###INTRODUCTION
+![Aidan's Introduction](https://user-images.githubusercontent.com/71460320/99715460-e9ae0180-2a74-11eb-915f-67d2aed850b1.png)
 
 ### Jordan Vs. Lebron
 ## Who is the greatest of all time?
